@@ -1,0 +1,3 @@
+﻿dataset,period,publisher,official_bulk_url,license,authentication,nature
+CORDIS Horizon Europe projects,2021-2027,Publications Office of the European Union,https://cordis.europa.eu/data/cordis-HORIZONprojects-csv.zip,CC BY 4.0,None,Official open data
+CORDIS Horizon 2020 projects,2014-2020,Publications Office of the European Union,https://cordis.europa.eu/data/cordis-h2020projects-csv.zip,CC BY 4.0,None,Official open data
