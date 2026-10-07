@@ -4,6 +4,8 @@ type: software
 title: "Research Partnership Atlas: International Collaboration and Research Funding Analytics"
 version: 1.0.0
 license: MIT
+repository-code: "https://github.com/nando8082/research-partnership-atlas"
+date-released: 2026-10-07
 abstract: "Streamlit application developed to implement the analytical framework of the associated international collaboration study, using CORDIS Horizon Europe and Horizon 2020 data for country-level network and funding analyses and figure exports."
 authors:
   - family-names: Pinargo
@@ -16,4 +18,3 @@ keywords:
   - research funding
   - network analysis
   - Streamlit
-# Add the real repository URL, release date and DOI when available.
